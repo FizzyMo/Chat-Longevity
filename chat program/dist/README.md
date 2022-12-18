@@ -1,0 +1,1 @@
+This program is holding on to user chat data through Firebase. Not all features are active like adding new users, Adding a user photo, uploading files to chat message, and checking user authorization. These are in the code for a later time. 
